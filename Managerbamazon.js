@@ -79,7 +79,7 @@ var viewProducts = function(){
 var viewInventory = function(){
 
 	//connect to the mysql database Products and only return items that have a quantity of less than 2
-	connection.query('SELECT * FROM Products WHERE StockQuantity < 2', function(err, res){
+	connection.query('SELECT * FROM Products WHERE StockQuantity < 4', function(err, res){
 		
 		console.log('');
 		

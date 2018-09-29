@@ -18,7 +18,7 @@ connection.connect();
 var executiveOptions = {
 	properties:{
 		eOptions:{
-			description: colors.cyan('Key in one of the following options: 1) View Product Sales by Department 2) Create New Department')
+			description: colors.cyan('Key in one of the following options: \n1) View Product Sales by Department \n2) Create New Department')
 		},
 	},
 };

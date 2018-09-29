@@ -18,7 +18,7 @@ connection.connect();
 var managerOptions = {
 	properties:{
 		mOptions:{
-			description: colors.cyan('Key in one of the following options: 1) View Products for Sale 2) View Low Inventory 3) Add to Inventory 4) Add New Product')
+			description: colors.cyan('Key in one of the following options: \n1) View Products for Sale \n2) View Low Inventory \n3) Add to Inventory \n4) Add New Product')
 		},
 	},
 };
@@ -56,7 +56,7 @@ var viewProducts = function(){
 		var table = new Table({
 			head: ['Item Id#', 'Product Name', 'Department Name', 'Price', 'Stock Quantity'],
 			style: {
-				head: ['blue'],
+				head: ['cyan'],
 				compact: false,
 				colAligns: ['center'],
 			}
@@ -90,7 +90,7 @@ var viewInventory = function(){
 		var table = new Table({
 			head: ['Item Id#', 'Product Name', 'Department Name', 'Price', 'Stock Quantity'],
 			style: {
-				head: ['blue'],
+				head: ['cyan'],
 				compact: false,
 				colAligns: ['center'],
 			}

@@ -1,6 +1,4 @@
  #Bamazon
- 
- ### Synopsis
  ***
  
  An interactive shopping node app where MySQL and Node.JS are used to allow users to purchase items as a customer, view, track and update the product inventory as a manager, and track the total sales by department as a supervisor.
@@ -48,11 +46,11 @@
  The Bamazon Supervisor Portal allows users to view the total profits of the store categorized by department and add new departments.  
  ![Bamazon Supervisor Portal](Images/supervisor-view.png)
  ***
- ##### Contributors:
+
 #### Contributors:
 ***
  Jeremy King [GitHub](https://github.com/kingjeremy2211/)
- ##### Technologies Used:
+
 #### Technologies Used:
 ***
  * Javascript
@@ -63,7 +61,7 @@
  	- [prompt](https://github.com/flatiron/prompt)
  	- [colors/safe](https://github.com/Marak/colors.js)
  	- [cli-table](https://github.com/Automattic/cli-table)
- ##### License
+
 #### License
 ***
  Copyright 2018  - Jeremy King

@@ -47,6 +47,10 @@
  ![Bamazon Supervisor Portal](examples/supervisor-view.png)
  ***
 
+  ##### Demo Video
+  ![Bamazon Demo Video](https://drive.google.com/file/d/1tnG13XGmUv3FUg_Bn0wvD9Suxm1x_KQQ/view)
+ ***
+
 #### Contributors:
 ***
  Jeremy King [GitHub](https://github.com/kingjeremy2211/)

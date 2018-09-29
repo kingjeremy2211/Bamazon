@@ -48,7 +48,7 @@
  ***
 
   ##### Demo Video
-  ![Bamazon Demo Video](https://drive.google.com/file/d/1tnG13XGmUv3FUg_Bn0wvD9Suxm1x_KQQ/view)
+  ![Bamazon Demo Video](examples/demo.gif)
  ***
 
 #### Contributors:

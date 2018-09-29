@@ -8,7 +8,7 @@
  
  The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
  
- ![Customer Portal](Images/customer-view.png)
+ ![Customer Portal](Examples/customer-view.png)
  
  
  ##### Bamazon Manager Portal
@@ -27,7 +27,7 @@
  
  The second option allows the user to see a list of all inventory items that have less than 5 items in stock.  If there are no products that meet this criteria, the user will see an empty table.
  
- ![Bamazon Manager Portal - Options 1 & 2](Images/manager-view1.png)
+ ![Bamazon Manager Portal - Options 1 & 2](Examples/manager-view1.png)
  
  
  ###### Manager Options 3 & 4
@@ -37,14 +37,14 @@
  
  The last option allows the user to add a new product to the inventory.  Prompts ask the user for the product id#, the product name, the department name, the price and the stock quantity.
  
- ![Bamazon Manager Portal - Options 3 & 4](Images/manager-view2.png)
+ ![Bamazon Manager Portal - Options 3 & 4](Examples/manager-view2.png)
  
  
  ##### Bamazon Supervisor Portal
  ***
  
  The Bamazon Supervisor Portal allows users to view the total profits of the store categorized by department and add new departments.  
- ![Bamazon Supervisor Portal](Images/supervisor-view.png)
+ ![Bamazon Supervisor Portal](Examples/supervisor-view.png)
  ***
 
 #### Contributors:
